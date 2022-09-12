@@ -98,7 +98,7 @@ textarea {
 /*Large Background Image*/
 html {
     height: 100%;
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/hin-bong-yeung-jF946mh5QrA-unsplash.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -123,20 +123,20 @@ body {
     justify-content: center;
     align-items: center;
     background: #222;
-    background:rgba(0,0,0,0.7);
+    background: hotpink;
     color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
     font-size: 1.25em;
     line-height: 1.5em;
     border-radius: 10px;
-    padding: 0px 30px;
+    padding: 20px 30px;
     width: 300px;
     height: 300px;
 }
 
 #content p span {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Lora', serif;
 }
 
 
